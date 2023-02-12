@@ -15,10 +15,10 @@ I've been coding since I was 13 years old. I am mostly fluent in Python ,Java & 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Amr-Hegazy1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 😂 Random Dev Meme
+<!-- ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Amr-Hegazy1&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Amr-Hegazy1&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
